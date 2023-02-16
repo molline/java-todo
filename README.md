@@ -1,7 +1,8 @@
 # Java-Week3-ToDo-List
 
 Author: Molline Atieno
-It pinged but it did not build.
+Build successful?
+
 
 
 Official repo for the "To Do List" project using Java, Spark, Handlebars etc for week 3 of java unit.
